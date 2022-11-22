@@ -51,7 +51,7 @@
 .heading {
   font-size: 2.5rem;
   font-weight: 500;
-  background: -webkit-linear-gradient(rgb(231, 165, 21), rgb(228, 105, 34));
+  background: -webkit-linear-gradient(rgb(90, 71, 28), rgb(58, 27, 9));
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
