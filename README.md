@@ -1,6 +1,6 @@
-# Getty Image Search Application
+# Open AI Dashboard
 
-This is a web page application were user can search getty api media results
+This is a web page application were user can search open ai query.
 
 # Highlights
 
@@ -33,11 +33,3 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
-
-## Sample Input
-![Video transcription/translation app](https://github.com/vineet-shekhawat/Getty-Search-Media-Results/blob/master/public/images/getty-search.png)
-
-## Final Output
-![Video transcription/translation app](https://github.com/vineet-shekhawat/Getty-Search-Media-Results/blob/master/public/images/getty-search-results.png)
-
-![Video transcription/translation app](https://github.com/vineet-shekhawat/Getty-Search-Media-Results/blob/master/public/images/getty-video-results.png)
